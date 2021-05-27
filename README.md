@@ -25,4 +25,4 @@
 * https://javascript.info/task/sum-object
 * https://javascript.info/task/multiply-numeric
 
-<!-- The tasks above have the solutions also, but i will check that if your solution and the solution below the task are the same -->
+The tasks above have the solutions also, but i will check that if your solution and the solution below the task are the same
