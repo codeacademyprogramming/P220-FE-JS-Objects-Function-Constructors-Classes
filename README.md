@@ -16,6 +16,10 @@
 * https://www.w3schools.com/js/js_object_prototypes.asp
 * https://www.w3schools.com/js/js_object_es5.asp
 
+
+### Built in classes 
+* https://javascript.info/date
+
 ### Extra resources
 * https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a
 
