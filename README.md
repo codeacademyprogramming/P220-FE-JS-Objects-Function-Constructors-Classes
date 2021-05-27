@@ -17,8 +17,10 @@
 * https://www.w3schools.com/js/js_object_es5.asp
 
 
-### Built in classes 
+### Global objects in js
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 * https://javascript.info/date
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 
 ### Extra resources
 * https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a
